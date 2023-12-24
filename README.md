@@ -129,6 +129,6 @@ virtualenv venv
 
 ----
 
-### 15. 按下「 Verify 」測試，出現「 Success 」表示 Bot 已上線
+### 15. 等待 1～2 分鐘後，按下「 Verify 」測試，出現「 Success 」表示 Bot 已上線
 
 ![Verify](https://media.discordapp.net/attachments/628539882503143428/1188297234584981604/2023-12-24_9.48.17.png?ex=659a030a&is=65878e0a&hm=ee43252a0f22533fc5aa6e2c13a76086e44118048970a893aac9fa3e5bfa9d64&=&width=1288&height=412)
